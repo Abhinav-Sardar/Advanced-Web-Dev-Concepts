@@ -12,8 +12,8 @@
 12. Keyof and typeof
 13 Optional Chaining
 14. Type intersection
-15. Indexed Accessed Types
-16. Dynamic Interfaces Keys
+15. Lookup Types
+16. Mapped
 17. Tuples ( Named, Anonymous , Tuple Extension )
 18.Utility types
 19. Discriminated Unions
