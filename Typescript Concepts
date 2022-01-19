@@ -1,0 +1,18 @@
+1. Basic Types :- string  , number , boolean
+2. Arrays
+3.Objects
+4.Union Types
+5.Type aliases
+6. Interfaces
+7. Generics ( Constraining and Default Values )
+8. Functions
+9. Type Inference
+10. Extension of Generics
+11. Conditional Types 
+12. Keyof and typeof
+13 Optional Chaining
+14. Type intersection
+15. Indexed Accessed Types
+16. Dynamic Interfaces Keys
+17. Tuples ( Named, Anonymous , Tuple Extension )
+18.Utility types
